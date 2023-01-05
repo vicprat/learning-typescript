@@ -1,3 +1,2 @@
-const myName = 'Victor';
-
-console.log(myName);
+var myName = 'nose'
+console.log(myName)
